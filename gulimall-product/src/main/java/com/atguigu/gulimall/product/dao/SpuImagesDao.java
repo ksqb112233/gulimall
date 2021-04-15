@@ -6,12 +6,12 @@ import org.apache.ibatis.annotations.Mapper;
 
 /**
  * spu图片
- * 
+ *
  * @author chenshun
  * @email sunlightcs@gmail.com
  * @date 2020-11-20 20:50:36
  */
 @Mapper
 public interface SpuImagesDao extends BaseMapper<SpuImagesEntity> {
-	
+
 }
